@@ -204,7 +204,7 @@ export const NavCarrinho = ({ setPage }) => {
           onChagePageHome(1);
         }}
       >
-        Home
+        <img width='50px' height='50px' src={home}/>
       </Button>
       <Button onClick={()=>{onChagePageCarrinho(2);}}>
       <img width='50px' height='50px' src={carrinhologo}/>
