@@ -1,0 +1,303 @@
+[
+    {
+    "id":"0001",
+    "nome":"Planeta Kepler-10c",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_kepler-10c.jpg?quality=70&strip=info&w=920",
+    "preco":"1",
+    "descricao":"Kepler-10c fica a 560 anos-luz da Terra. A estimativa é que a massa do planeta seja 17 vezes maior que a da Terra."
+},
+{
+    "id":"0002",
+    "nome":"Asteroide 2014 KP4",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_asteroide1.jpg?quality=70&strip=info&w=920",
+    "preco":"2",
+    "descricao":"Com 600 metros de diâmetro, 2014 KP4 foi o primeiro asteroide a ser localizado por astrônomos brasileiros."
+},
+{
+    "id":"0003",
+    "nome":"Estrela IRAS 14568-6304",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_estrela-nascendo.jpg?quality=70&strip=info&w=920",
+    "preco":"7",
+    "descricao":"IRAS 14568-6304 é o nome de uma estrela cuja a massa é cerca de 250 mil vezes maior que a do Sol."
+},
+{
+    "id":"0004",
+    "nome":"Estrela Westerlund 1-5",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_westerlund1.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"A Westerlund 1-5 é uma estrela situada na constelação austral de Altar. O astro ajudou os cientistas a solucionar o mistério das estrelas magnéticas."
+},
+{
+    "id":"0005",
+    "nome":"Planeta Kepler-186f",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_planeta-kepler-186f.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"Potencialmente habitável. Assim Kepler-186f foi definido pela NASA após sua descoberta, realizada em abril. Situado na constelação do Cisne."
+},
+{
+    "id":"0006",
+    "nome":"Lua Encélado",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_lua-de-saturno-encedalus.jpg?quality=70&strip=info&w=920",
+    "preco":"6",
+    "descricao":"Lua que orbita em torno de Saturno, Encélado conta com um oceano subterrâneo."
+},
+{
+    "id":"0007",
+    "nome":"Galáxia NGC 1316",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_galaxias-eso.jpg?quality=70&strip=info&w=920",
+    "preco":"3",
+    "descricao":"Conhecida como galáxia assassina, NGC 1316 teve uma imagem sua divulgada em abril pelo ESO Observatório Europeu do Sul."
+},
+{
+    "id":"0008",
+    "nome":"Centauro Chariklo",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_aneis-de-chariklo.jpg?quality=70&strip=info&w=920",
+    "preco":"3",
+    "descricao":"Os centauros são corpos de pequeno porte que orbitam entre Júpiter e Netuno."
+},
+{
+    "id":"0009",
+    "nome":"Planeta anão 2012 VP113",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_2012vp113moviesmall.gif?w=920",
+    "preco":"4",
+    "descricao":"Na bordinha do sistema solar, 2012 VP113 foi descoberto em março. Formado com gelo e com formato esférico."
+},
+{
+    "id":"0010",
+    "nome":"Estrela HR 5171 A",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_explosao-estrela.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Uma das dez maiores estrelas já descobertas até hoje, HR 5171 A tem mais de 1,3 mil vezes o diâmetro do Sol."
+},
+{
+    "id":"0011",
+    "nome":"Útero estelar",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_estrelagigante.jpg?quality=70&strip=info&w=920",
+    "preco":"4",
+    "descricao":"Com massa 500 vezes maior que a solar, SDC 335.579-0.292 fica na na Via Láctea e é o maior útero estelar já encontrado."
+},
+{
+    "id":"0012",
+    "nome":"Cometa 67P/Churyumov-Gerasimenko",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_cometas6.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"67P/Churyumov-Gerasimenko foi o primeiro cometa no qual uma nave espacial aterrisou."
+},
+{
+    "id":"0013",
+    "nome":" Asteroide P/2013 P5",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_asteroides.jpg?quality=70&strip=info&w=920",
+    "preco":"5",
+    "descricao":"É difícil de acreditar que estamos olhando para um asteroide, afirmou o cientista David Jewitt ao ver P/2013 P5."
+},
+{
+    "id":"0014",
+    "nome":"Asteroide 1999 NC43",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_85784367.jpg?quality=70&strip=info&w=920",
+    "preco":"3",
+    "descricao":"A grande atração do Asteroide 1999 NC43 é ter dado origem ao meteorito que atingiu a cidade russa de Tcheliabinsk."
+},
+{
+    "id":"0015",
+    "nome":"Exoplaneta Kepler-78b",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_exoplanetas.jpg?quality=70&strip=info&w=920",
+    "preco":"6",
+    "descricao":"Provavelmente formado por rochas de ferro e com temperaturas entre 1.500 e 3000 graus centígrados."
+},
+{
+    "id":"0016",
+    "nome":"Asteroide 2013-TV135",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_asteroides1.jpg?quality=70&strip=info&w=920",
+    "preco":"7",
+    "descricao":"Existe 1 chance em 63 mil do asteroide 2013-TV135 colidir com a Terra em 2032. Mas se isso acontecer, será com a força de 50 bombas nucleares."
+},
+{
+    "id":"0017",
+    "nome":"Exoplaneta PSO J318.5-22",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_achado_exoplaneta_que_gira_em_torno_de_sol_como_o_nosso.jpg?quality=70&strip=info&w=920",
+    "preco":"4",
+    "descricao":"PSO J318.5-22 é um solitário exoplaneta gasoso localizado a 80 anos-luz da Terra."
+},
+{
+    "id":"0018",
+    "nome":"Galáxia z8-GND-5296",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_galaxia-sombrero.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Surgida há 700 milhões de anos, z8-GND-5296 é a galáxia mais distante da Terra de que se tem notícia."
+},
+{
+    "id":"0019",
+    "nome":"Lua Titã",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_nasa_edited-2.jpg?quality=70&strip=info&w=920",
+    "preco":"6",
+    "descricao":"O propileno, um dos ingredientes do plástico, foi localizado num lugar inusitado: Titã, uma das luas de Saturno."
+},
+{
+    "id":"0020",
+    "nome":"Planeta de Einstein",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_kepler76b.jpg?quality=70&strip=info&w=920",
+    "preco":"7",
+    "descricao":"Descoberto em maio do ano passado, Kepler 76-b ficou mais conhecido como Planeta de Einstein."
+},
+{
+    "id":"0021",
+    "nome":"Nebulosa do Camarão",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_hubble_1.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"A Nebulosa do Camarão não é um restaurante de beira de estrada espacial. Trata-se de um berçário de estrelas."
+},
+{
+    "id":"0022",
+    "nome":"Asteroide 261690 Jodorowksy",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_espaco-nasa1.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Descoberto na noite de 24 de dezembro de 2005 por um astrônomo francês, 261690 Jodorowksy é um asteroide com quase 5 quilômetros de comprimento."
+},
+{
+    "id":"0023",
+    "nome":"Estrela HIP 102152",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_nascer_do_sol_visto_de_cima_da_terra.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"Gêmea do Sol, a estrela HIP 102152 fica a 250 anos-luz da Terra e existe há cerca de  bilhões de anos."
+},
+{
+    "id":"0024",
+    "nome":"Luas Kerberos e Styx",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_solar_sistem.jpg?quality=70&strip=info&w=920",
+    "preco":"3",
+    "descricao":"Até julho de 2013, Kerberos e Styx não tinham nome. Descobertas respectivamente em 2011 e 2012."
+},
+{
+    "id":"0025",
+    "nome":"Planeta HD 40307",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_170637-hd-40307-665.jpg?quality=70&strip=info&w=920",
+    "preco":"3",
+    "descricao":"Com sete vezes mais massa do que a Terra, HD 40307 fica a 44 anos-luz da Terra. Fora do Sistema Solar, o planeta foi descoberto por cientistas."
+},
+{
+    "id":"0026",
+    "nome":"Planeta GJ1214b",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_170623-gj1214b-665.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"A atmosfera é um dos grandes atrativos de GJ1214b. Localizado a 40 anos-luz da Terra, é provável que o planeta tenha boa parte de sua massa composta de água."
+},
+{
+    "id":"0027",
+    "nome":"Planeta 55 Cancri",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_170615-55-cancri-665.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Coberto de grafite e diamante, 55 Cancri fica na constelação de Câncer - a 41 anos-luz da Terra."
+},
+{
+    "id":"0028",
+    "nome":"Planeta 55 Cancri e",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_170601-55-cancri-e-665.jpg?quality=70&strip=info&w=920",
+    "preco":"6",
+    "descricao":"Apesar do nome parecido, 55 Cancri e 55 Cancri e são diferentes. Em relação ao último planeta, cientistas afirmam que a presença de vapor d'água e gás hidrogênio é muito provável."
+},
+{
+    "id":"0029",
+    "nome":"Planeta Gliese 667 Cc ",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_170628-gliese-667-cc-665.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Com massa 4,5 vezes maior que a Terra, Gliese 667 Cc tem temperatura média que possibilita a existência de água em estado líquido. Sua descoberta foi anunciada por cientistas em junho do ano passado."
+},
+{
+    "id":"0030",
+    "nome":"Exoplaneta Gliese 581d",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_170651-gliese-581d-665.jpg?quality=70&strip=info&w=920",
+    "preco":"3",
+    "descricao":"Gliese 581d é um velho conhecido dos cientistas, que já há tempos o estudam. Localizado a 20 anos-luz do Sol, o exoplaneta orbita em torno de uma estrela anã vermelha."
+},
+{
+    "id":"0031",
+    "nome":"Planeta Gliese 581g",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_170611-gliese-581g-665.jpg?quality=70&strip=info&w=920",
+    "preco":"7",
+    "descricao":"Apontado por cientistas como um planeta rochoso, Gliese 581g dá sinais de que conta com gravidade suficiente para manter coisas em sua atmosfera."
+},
+{
+    "id":"0032",
+    "nome":"Agrupamento galático NGC 3766",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_messier-9.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"NGC 3766 é um agrupamento galático com mais de 3000 estrelas. Lá, pesquisadores identificaram um novo tipo de estrela."
+},
+{
+    "id":"0033",
+    "nome":"Estrela HD95086",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_estrelas_observadas_pelo_observatorio_europeu_do_sul2.jpg?quality=70&strip=info&w=920",
+    "preco":"6",
+    "descricao":"A jovem estrela HD95086 fica a 300 anos-luz da Terra e tem idade estimada entre 10 e 17 milhões de anos."
+},
+{
+    "id":"0034",
+    "nome":"Asteroide 1998 QE2",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_foto-da-nasa-e-um-asteroide.jpg?quality=70&strip=info&w=920",
+    "preco":"4",
+    "descricao":"Para ter noção do tamanho de 1998 QE2, imagine cinco navios transatlânticos juntos. Com 2,7 quilômetros de diâmetro, o asteroide gigante tem sua própria lua."
+},
+{
+    "id":"0035",
+    "nome":"Lua Europa ",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_original_juptr.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"Coberta de gelo, Europa jorra jatos de vapor d'água por seu polo sul. Acredita-se que a lua de Júpiter abrigue um oceano sob sua superfície."
+},
+{
+    "id":"0036",
+    "nome":"Estrela HR 4796A",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_disco-poeira-estrela.jpg?quality=70&strip=info&w=920",
+    "preco":"7",
+    "descricao":"Localizada fora do sistema solar, a estrela HR 4796A foi fotografada recentemente. Em torno dela, existe um curioso disco de poeira."
+},
+{
+    "id":"0037",
+    "nome":"Acúmulo estelar Messier 67",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_hubble_m5.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Situado na constelação de Câncer, o acúmulo estelar Messier 67 abriga três planetas. Dois deles orbitam em torno de estrela parecidas com o sol."
+},
+{
+    "id":"0038",
+    "nome":"Estrela Kepler-62",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_kepler62f.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Cinco planetas orbitam em torno de Kepler-62. Destes, dois foram situados na zona habitável por cientistas da NASA em artigo publicado no ano passado."
+},
+{
+    "id":"0039",
+    "nome":"Lua S/2004 N 1",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_2013-07-15t211253z_1603127904_gm1e97g0e6a01_rtrmadp_3_space-neptune.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"S/2004 N 1 é o 14º satélite de Netuno, planeta gasoso do Sistema Solar. A lua teve descoberta anunciada pela NASA em julho do ano passado."
+},
+{
+    "id":"0040",
+    "nome":"Saturno",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_via_lactea_e_saturno.jpg?quality=70&strip=info&w=920",
+    "preco":"9",
+    "descricao":"Velho frequentador dos livros de ciência, Saturno tem atrativos ainda desconhecidos do grande público."
+},
+{
+    "id":"0041",
+    "nome":"Marte",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_marte2.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Alvo de fascínio dos terráqueos há tempos, Marte está nos planos do bilionário Elon Musk."
+},
+{
+    "id":"0042",
+    "nome":"Fazenda voadora",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_plantas-fazenda-espacial-nasa.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Desde maio, a Estação Espacial Internacional conta com o Veggie, um sistema para o desenvolvimento de legumes e vegetais."
+},
+{
+    "id":"0043",
+    "nome":"Horta lunar",
+    "imagem":"https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_photo_1361978765638-1-0.jpg?quality=70&strip=info&w=920",
+    "preco":"8",
+    "descricao":"Um projeto da NASA pretende iniciar o cultivo de nabos, agriões e manjericão na Lua. A previsão é que os experimentos comecem já no ano que vem."
+}
+]
