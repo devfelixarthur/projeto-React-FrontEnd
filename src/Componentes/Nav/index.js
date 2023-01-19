@@ -147,18 +147,18 @@ getBitcoin()
           <option value="Decrescente">Z - A</option>
         </Select>
         <p>Parceiros:</p>
-        <a href="https://www.google.com.br" target="_blank">
+        <a href="https://sable-jewel.surge.sh/" target="_blank">
           <ImagemNav src={logotipo_Koala} />
         </a>
-        <a href="https://www.google.com.br" target="_blank">
+        <a href="http://glossy-songs.surge.sh/" target="_blank">
           <ImagemNav src={logotipo_Mel} />
         </a>
 
-        <a href="https://www.google.com.br" target="_blank">
+        <a href="https://few-snake.surge.sh/" target="_blank">
           <ImagemNav src={logotipo_Jaziel} />
         </a>
 
-        <a href="https://www.google.com.br" target="_blank">
+        <a href="https://spacetoystorepedrooliveira.surge.sh/" target="_blank">
           <ImagemNav src={logotipo_PH} />
         </a>
 
