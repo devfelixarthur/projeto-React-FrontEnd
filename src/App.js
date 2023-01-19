@@ -198,7 +198,6 @@ function App() {
             setLista={setLista}
             somarQuantidade={somarQuantidade}
             diminuirQuantidade={diminuirQuantidade}
-
           />
         </MainContainer>
         <Footer />
