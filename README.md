@@ -38,25 +38,25 @@ Abaixo listo as funcionalidades implementadas no projeto:
 Para executar o projeto, siga os seguintes passos:
 
 <b>1.  Clone o repositório em sua máquina:</b> 
-```
+
 ~~~bash
 git clone https://github.com/SeuNome/sua-fork-do-repositorio.git
 ~~~
-```
+
 
 <b>2.  Instale as dependências do projeto:</b> 
-```
+
 ~~~bash
 npm install
 ~~~
-```
+
 
 <b>3.  inicie o projeto:</b> 
-```
+
 ~~~bash
 npm start
 ~~~
-```
+
 ##  Autoria e Contribuições
 
 O projeto foi desenvolvido por [Arthur Felix](https://github.com/devfelixarthur) com base em um desafio técnico fornecido pela Labenu.
