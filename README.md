@@ -1,71 +1,64 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align='center'>Projeto interstelar</h1>
 
-## Available Scripts
+##  Sobre esse projeto 
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este é um projeto que consiste em uma loja virtual de pacotes de viagem. A partir de um arquivo JSON, são exibidos pacotes de viagem com informações como nome, descrição, preço e imagem. Os usuários podem filtrar os pacotes por nome, ID e preço, bem como ordená-los em ordem alfabética crescente ou decrescente.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Além disso, os usuários podem adicionar e remover pacotes do carrinho de compras, bem como aumentar ou diminuir a quantidade de pacotes no carrinho.
 
-### `npm test`
+O projeto foi desenvolvido em React e Styled Components, realizando consumo de API para cotação do Bitcoin, esta integração foi realizada usando o Axios. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+##  Funcionalidades
+Abaixo listo as funcionalidades implementadas no projeto:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   **`Navegação Entre as Páginas`**: Permite a navegação entre as páginas "Home" e "Carrinho de Compras" através dos botões na navegação.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   **`Campos de Busca`**: Permite o filtro e a busca de pacotes por nome, id e preço.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+-   **`Atualiação e Conversão do Bitcoin`**: Busca dados da API do Mercado Bitcoin e exibe o valor atual do Bitcoin no cabeçalho da navegação.
+    
+   
+##  Tecnologias utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **React.Js**: O React é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+- 
+- - **Styled-components**: É uma biblioteca (lib) do React e do React Native que nos permite criar componentes de estilo ao escrever códigos CSS dentro de um arquivo JavaScript.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **React Hooks**: Os React Hooks são  funções JavaScript simples que podemos usar para isolar a parte reutilizável de um componente funcional. Ou seja, podemos separar vários componentes em nossa aplicação, separando cada responsabilidade em um arquivo separado, evitando o acoplamento dela.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Axios**: O Axios é um biblioteca que permite uma integração do seu projeto React para qualquer serviço de API disponível. Ele é uma biblioteca leve e também uma alternativa para quem usa o fetch api.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+##  Instalação :computer: :fireworks:
 
-## Learn More
+Para executar o projeto, siga os seguintes passos:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<b>1.  Clone o repositório em sua máquina:</b> 
+```
+~~~bash
+git clone https://github.com/SeuNome/sua-fork-do-repositorio.git
+~~~
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<b>2.  Instale as dependências do projeto:</b> 
+```
+~~~bash
+npm install
+~~~
+```
 
-### Code Splitting
+<b>3.  inicie o projeto:</b> 
+```
+~~~bash
+npm start
+~~~
+```
+##  Autoria e Contribuições
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+O projeto foi desenvolvido por [Arthur Felix](https://github.com/devfelixarthur) com base em um desafio técnico fornecido pela Labenu.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# projeto-React-FrontEnd
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
